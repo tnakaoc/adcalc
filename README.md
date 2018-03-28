@@ -10,4 +10,4 @@ options:
    
 ex.:
   ./adcalc sample.zdis -D11.0 -N10 -T70
-  # means, Limit dose for normal tissue is 11Gy, boron for Normal tissue is 10ppm, and boron for Tumor tissue is 100ppm
+   means, Limit dose for normal tissue is 11Gy, boron for Normal tissue is 10ppm, and boron for Tumor tissue is 100ppm
